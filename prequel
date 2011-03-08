@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php
 /**
- * Phew. A FlourishSQL Database CLI
+ * Prequel. A FlourishSQL Database CLI
  *
  * @copyright  Copyright (c) 2011 Jeff Turcotte
  * @author     Jeff Turcotte [jt] <jeffturcotte.com>
